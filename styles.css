@@ -8,8 +8,8 @@
 body {
    
     font-family: "Red Hat Text", sans-serif;
-    background-color: hsl(30, 100%, 98%);
-    color: #333;
+    background-color: hsl(23, 50%, 97%);
+    color:  hsl(14, 65%, 9%);
     line-height: 1.5;
 }
 
@@ -44,12 +44,13 @@ main {
     display:flex;
     flex-direction:column;
     position: relative;
-    margin-top: 50px;
+    margin-top: 45px;
 }
 
 .site_title {
-    color:hsl(12, 34%, 25%);
+    color:hsl(14, 66%, 22%);
     font-weight: 600;
+    font-weight: 500;
 }
 
 p {
@@ -58,9 +59,10 @@ p {
 
 .title {
 
-    color:hsl(14, 65%, 9%);
-    font-weight: 600;
+    color: hsl(14, 66%, 22%);
+    font-weight: 500;
     margin:0;
+    font-size: 15px;
 }
 
 
@@ -68,12 +70,14 @@ p {
     
     color:hsl(7, 20%, 60%);
     margin:0;
+    font-size: 15px;
 }
 
 .price {
     
-    color:hsl(14, 86%, 42%);
+    color: hsl(14, 86%, 42%);
     margin:0;
+    font-size: 15px;
 }
 
 .image_container {
@@ -93,10 +97,10 @@ button {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    top:95%;
+    top:90%;
     cursor: pointer;
     align-self: center;
-    border: 1px solid hsl(14, 86%, 42%);
+    border: 1.2px solid hsl(14, 86%, 42%);
     color:hsl(14, 65%, 9%);
     padding: 15px 25px;
     background-color:hsl(0, 0%, 100%);
@@ -119,11 +123,11 @@ button i {
 .cart_title {
     color:hsl(14, 86%, 42%);
     margin-bottom: 20px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .cart h5 {
-    color:hsl(12, 20%, 44%);
+    color:hsl(14, 66%, 22%);
     font-weight: 500;
 }
 
