@@ -7,10 +7,11 @@
 
 body {
    
-    font-family: "Red Hat Text", sans-serif;
+    font-family: "Livvic", serif;
     background-color: hsl(0, 0%, 100%);
     color:  hsl(336, 64%, 35%);
     line-height: 1.5;
+    letter-spacing: 0.6px;
 }
 
 
