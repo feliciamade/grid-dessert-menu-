@@ -9,7 +9,7 @@ body {
    
     font-family: "Red Hat Text", sans-serif;
     background-color: hsl(0, 0%, 100%);
-    color:  hsl(14, 65%, 9%);
+    color:  hsl(336, 64%, 35%);
     line-height: 1.5;
 }
 
@@ -48,9 +48,10 @@ main {
 }
 
 .site_title {
-    color:hsl(14, 66%, 22%);
-    font-weight: 600;
+    color:  hsl(336, 64%, 35%);
     font-weight: 500;
+    font-family: "Poltawski Nowy", serif;
+    text-align: center;
 }
 
 p {
@@ -59,10 +60,12 @@ p {
 
 .title {
 
-    color: hsl(14, 66%, 22%);
+    color:  hsl(336, 64%, 35%);
     font-weight: 500;
     margin:0;
     font-size: 15px;
+    font-family: "Poltawski Nowy", serif;
+    
 }
 
 
@@ -75,7 +78,7 @@ p {
 
 .price {
     
-    color: hsl(14, 86%, 42%);
+    color:  hsl(336, 86%, 67%);
     margin:0;
     font-size: 15px;
 }
@@ -101,7 +104,7 @@ button {
     top:90%;
     cursor: pointer;
     align-self: center;
-    border: 1.2px solid hsl(14, 86%, 42%);
+    border: 1.2px solid hsl(336, 64%, 35%);;
     color:hsl(14, 65%, 9%);
     padding: 15px 25px;
     background-color:hsl(0, 0%, 100%);
@@ -112,20 +115,21 @@ button {
 }
 
 button i {
-    color:hsl(14, 86%, 42%);
+   color:  hsl(336, 72%, 55%);
 }
 
 .cart {
     padding:30px;
     background-color: white;
     border-radius: 20px;
-    border:hsl(14, 66%, 22%);
+    border:  hsl(336, 72%, 55%);
 }
 
 .cart_title {
-    color:hsl(14, 86%, 42%);
+    color:  hsl(336, 72%, 55%);
     margin-bottom: 20px;
     font-weight: 500;
+    font-family: "Poltawski Nowy", serif;
 }
 
 .cart h5 {
