@@ -49,6 +49,10 @@ main {
 
 .site_title {
     color:  hsl(336, 64%, 35%);
+<<<<<<< HEAD
+=======
+    font-weight: 600;
+>>>>>>> f4afe286bdbd1be51ab94b1665753bec08f9b3c0
     font-weight: 500;
     font-family: "Poltawski Nowy", serif;
     text-align: center;
