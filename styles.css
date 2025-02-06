@@ -50,7 +50,6 @@ main {
 .site_title {
     color:  hsl(336, 64%, 35%);
     font-weight: 500;
-    font-family: "Poltawski Nowy", serif;
 }
 
 p {
@@ -63,7 +62,6 @@ p {
     font-weight: 500;
     margin:0;
     font-size: 15px;
-    font-family: "Poltawski Nowy", serif;
     
 }
 
@@ -128,7 +126,6 @@ button i {
     color:  hsl(336, 72%, 55%);
     margin-bottom: 20px;
     font-weight: 500;
-    font-family: "Poltawski Nowy", serif;
 }
 
 .cart h5 {
